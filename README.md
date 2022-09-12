@@ -1,4 +1,4 @@
-$$\sum_{i=0}^{\infty} i$$
+$$ F(\omega) = \int_{-\infty}^{\infty} f(x)\cdot e^{-j\omega x} dx $$
 
 <!--
 **CloudyPadmal/CloudyPadmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
